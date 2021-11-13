@@ -93,5 +93,5 @@ Visit http://localhost:5500 on a Browser to View the App
 
 
 ## License
-[![GitLicense](https://gitlicense.com/badge/sajustsmile/sajustsmile.github.io)]()
+[![GitLicense](https://gitlicense.com/badge/sajustsmile/sajustsmile.github.io)](https://github.com/sajustsmile/team_name/blob/main/LICENSE)
 
