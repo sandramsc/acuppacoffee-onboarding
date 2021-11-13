@@ -134,8 +134,41 @@ button.ghost {
 .form-container {
   position: absolute;
   top: 0;
+  height: 100%;
+  transition: all 0.6s ease-in-out;
 }
 
+.sign-in-container {
+  left: 0;
+  width: 50%;
+  z-index: 2;
+}
+
+.sign-up-container {
+  left: 0;
+  width: 50%;
+  opacity: 0;
+  z-index: 1;
+}
+
+/*
+
+.overlay-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 100%;
+  overflow: hidden;
+  transition: transform 0.6s ease-in-out;
+  z-index: 100;
+}
+
+.overlay {
+  background: #ff416c;
+  background: linear-gradient(to right, #ff4b2b, #ff416c) no-repeat 0 0 / cover;
+}
+*/
 .credit {
   text-align: center;
   color: var(--first-color);
