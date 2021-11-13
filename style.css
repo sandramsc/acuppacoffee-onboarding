@@ -1,3 +1,4 @@
+/* designed by Sandra Ashipala https://github.com/sajustsmile for 14/11/2021 */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap");
 
 * {
@@ -5,4 +6,11 @@
 }
 
 body {
+  font-family: "Poppins", sans-serif;
+  background: #f6ff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
