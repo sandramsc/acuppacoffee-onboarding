@@ -151,19 +151,17 @@ button.ghost {
   z-index: 1;
 }
 
-/*
-
 .overlay-container {
   position: absolute;
   top: 0;
-  left: 0;
+  left: 50%;
   width: 50%;
   height: 100%;
   overflow: hidden;
   transition: transform 0.6s ease-in-out;
   z-index: 100;
 }
-
+/*
 .overlay {
   background: #ff416c;
   background: linear-gradient(to right, #ff4b2b, #ff416c) no-repeat 0 0 / cover;
