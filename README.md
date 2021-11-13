@@ -83,9 +83,9 @@ Visit http://localhost:5500 on a Browser to View the App
 
 | Name                          | Link ↘️                         |
 |-------------------------------|---------------------------------|
-|   Sandra Ashipala              | https://github.com/sajustsmile |
-||   |
-|                  |  |
+| Sandra Ashipala              | https://github.com/sajustsmile |
+| Tatiana Dos Anjos            | https://github.com/tbanjos |
+| Hana Mohamed                 | https://github.com/Hana008 |
 |           |     |
 
 ## References
