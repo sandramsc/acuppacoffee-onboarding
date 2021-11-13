@@ -75,14 +75,6 @@ a {
   text-align: center;
 }
 
-.credit {
-  text-align: center;
-  color: var(--first-color);
-  padding-bottom: 5px;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-}
-
 .social-container {
   margin: 20px 0;
 }
@@ -103,4 +95,22 @@ a {
   margin: 0 5px;
   height: 40px;
   width: 40px;
+}
+
+button {
+  border-radius: 20px;
+  border: 1px solid #ff4b2b;
+  background: #ff4b2b;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 14px 45px;
+}
+
+.credit {
+  text-align: center;
+  color: var(--first-color);
+  padding-bottom: 5px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
