@@ -87,6 +87,13 @@ a {
   margin: 20px 0;
 }
 
+.form-container input {
+  background: #eee;
+  border: none;
+  padding: 12px;
+  margin: 8px 0;
+  width: 100%;
+}
 .social-container a {
   border: 1px solid #ddd;
   border-radius: 50%;
