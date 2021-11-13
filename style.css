@@ -7,7 +7,20 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background: #f6ff;
+  /*UI gradients*/
+  background: #5433ff; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #fba5fe,
+    #fff020,
+    #ff3381
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #fba5fe,
+    #fff020,
+    #ff3381
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -38,6 +51,11 @@ a {
   font-size: 14px;
   text-decoration: none;
   margin: 15px 0;
+}
+
+.container {
+  background: white;
+  border-radius: 10px;
 }
 
 .credit {
