@@ -83,7 +83,7 @@ Visit http://localhost:5500 on a Browser to View the App
 
 | Name                          | Link ↘️                         |
 |-------------------------------|---------------------------------|
-|   Sandra Ashipala          |  |
+|   Sandra Ashipala              | https://github.com/sajustsmile |
 ||   |
 |                  |  |
 |           |     |
