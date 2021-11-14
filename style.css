@@ -61,7 +61,7 @@ a {
   overflow: hidden;
   width: 768px;
   max-width: 100%;
-  min-height: 480px;
+  min-height: 595px;
 }
 
 .logo {
@@ -112,8 +112,9 @@ button {
   color: white;
   font-size: 14px;
   font-weight: bold;
-  padding: 14px 45px;
+  padding: 16px 45px;
   letter-spacing: 1px;
+  margin-top: 16px;
   text-transform: uppercase;
   transition: transform 80ms ease-in;
 }
@@ -208,6 +209,26 @@ button.ghost {
 /* Move animation to the left */
 .container.right-panel-active .overlay-container {
   transform: translateX(-100%);
+}
+
+/* Sign-up form moves over sign-in form */
+.container.right-panel-active .sign-up-container {
+  transform: translateX(100%);
+  opacity: 1;
+  z-index: 5;
+}
+
+/* Move overlay to the right */
+.container.right-panel-active .overlay {
+  transform: translateX(50%);
+}
+
+.container.right-panel-active .overlay-left {
+  transform: translateX(0%);
+}
+
+.container.right-panel-active .overlay-right {
+  transform: translateX(20%);
 }
 
 .credit {
