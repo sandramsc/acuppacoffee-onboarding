@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">INSERT TEAM NAME HERE</h1>
+  <h1 align="center">A Cuppa Coffee</h1>
  <h2 2 align="center">
     Working from Home
     <br />
@@ -12,7 +12,7 @@ xxxxxxxxxxxxxxxxxxxxx
 ## Table of Contents
 
 <details>
-<summary>INSERT TEAM NAME HERE</summary>
+<summary>A Cuppa Coffee</summary>
 
 - [Application Description](#application-description)
 - [Table of Contents](#table-of-contents)
@@ -89,4 +89,4 @@ Visit http://localhost:5500 on a Browser to View the App
 
 ## License
 
-[![GitLicense](https://gitlicense.com/badge/sajustsmile/sajustsmile.github.io)](https://github.com/sajustsmile/team_name/blob/main/LICENSE)
+[![GitLicense](https://gitlicense.com/badge/sajustsmile/sajustsmile.github.io)](https://github.com/sajustsmile/acuppacoffee/blob/main/LICENSE)
