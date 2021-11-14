@@ -12,10 +12,7 @@ a web based tool that enables users from the same corporate organization to inte
 ## Table of Contents
 
 <details>
-<summary>aCuppaCo
-
-
-ffee Onboarding</summary>
+<summary>aCuppaCoffee Onboarding</summary>
 
 - [Application Description](#application-description)
 - [Table of Contents](#table-of-contents)
@@ -35,10 +32,7 @@ ffee Onboarding</summary>
 
 A Short Video Detailing the Features Implemented in this Application
 
-View the Demo on YouTube: https://...........
-
-
-https://user-images.githubusercontent.com/59575217/141693345-ad604830-2222-4b0a-9b8a-17863aafb7b7.mp4
+View the Demo on YouTube: https://www.youtube.com/watch?v=HELrcnVhueI
 
 
 
@@ -57,12 +51,15 @@ https://user-images.githubusercontent.com/59575217/141693345-ad604830-2222-4b0a-
 | TypeScript | Object-oriented language   |
 | React.js    | JavaScript library   |
 | Docker    | Containerization platform   |
+| Figma    | Vector graphic and prototyping tool   |
 
 ## Features
 
 1. Interested employees can sign-up and get matched with another employee where they can play a virtual game and have their scores on a leader board
 
-2. Employees can purchase a drink for other employees
+2. With stripe payment integration, employees can purchase a drink for other employees witheir credit card
+
+3. We have dockerized the application for future scalability and for the purposes of being able to use the software on any operating system
 
 ## Running
 
@@ -99,9 +96,6 @@ Visit http://localhost:5500 on a Browser to View the App
 | Hana Mohamed      | https://github.com/Hana008     |
 | Naj Nashmin       | https://github.com/unnamedrd   |
 
-## References
-
-- [xxx]()
 
 ## License
 
