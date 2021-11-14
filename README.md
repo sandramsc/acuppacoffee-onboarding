@@ -34,7 +34,9 @@ A Short Video Detailing the Features Implemented in this Application
 
 View the Demo on YouTube: https://www.youtube.com/watch?v=HELrcnVhueI
 
-Explore the gamified section of the app: http://bitly.ws/jzyY
+View our gamified onboarding app 'All aboard' below
+
+https://user-images.githubusercontent.com/59575217/141695019-bcef2d14-4540-4ec6-b852-74ca0526bfaf.mp4
 
 ## Screenshots
 ![screenshot1](https://user-images.githubusercontent.com/19821445/141680795-78106d30-cb05-450e-a304-a60a21c0af00.JPG)
