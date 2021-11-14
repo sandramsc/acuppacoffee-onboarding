@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">A Cuppa Coffee</h1>
+  <h1 align="center">aCuppaCoffee</h1>
  <h2 2 align="center">
     Working from Home
     <br />
@@ -12,7 +12,7 @@ xxxxxxxxxxxxxxxxxxxxx
 ## Table of Contents
 
 <details>
-<summary>A Cuppa Coffee</summary>
+<summary>aCuppaCoffee</summary>
 
 - [Application Description](#application-description)
 - [Table of Contents](#table-of-contents)
