@@ -51,15 +51,17 @@ View the Demo on YouTube: https://www.youtube.com/watch?v=HELrcnVhueI
 | TypeScript | Object-oriented language   |
 | React.js    | JavaScript library   |
 | Docker    | Containerization platform   |
-| Figma    | Vector graphic and prototyping tool   |
+| Figma    | Vector graphic and prototyping tool |
 
 ## Features
 
-1. Interested employees can sign-up and get matched with another employee where they can play a virtual game and have their scores on a leader board
+1. Interested employees can sign-up or sign back in and get matched with another employee where they can play a virtual game and have their scores on a leader board/dashboard
 
-2. With stripe payment integrated, employees can purchase a drink (i.e a cup of coffee) for other employees witheir credit card
+2. Dashboard is updated after a game with new score results
 
-3. We have dockerized the application for future scalability and for the purposes of being able to use the software on any operating system
+3. With stripe payment integrated, employees can purchase a drink (i.e a cup of coffee) for other employees witheir credit card
+
+4. We have dockerized the application for future scalability and for the purposes of being able to use the software on any operating system
 
 ## Running
 
