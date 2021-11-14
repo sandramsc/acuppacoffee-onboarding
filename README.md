@@ -47,6 +47,7 @@ View the Demo on YouTube: https://...........
 | CSS3       | Cascading Style Sheets     |
 | JavaScript | Object-oriented language   |
 | TypeScript | Object-oriented language   |
+| React.js    | JavaScript library   |
 
 ## Features
 
