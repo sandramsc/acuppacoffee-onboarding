@@ -1,9 +1,7 @@
-# get base image 
-FROM scratch
+# get base image ubuntu
+FROM ubuntu
 
 MAINTAINER sandra ashipala <sajustsmile@gmail.com>
-
-RUN apt-get update
 
 LABEL org.opencontainers.image.source="https://github.com/sajustsmile/acuppacoffee"
 
