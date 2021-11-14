@@ -12,7 +12,7 @@ a web based tool that enables users from the same corporate organization to inte
 ## Table of Contents
 
 <details>
-<summary>aCuppaCoffee</summary>
+<summary>aCuppaCoffee Onboarding</summary>
 
 - [Application Description](#application-description)
 - [Table of Contents](#table-of-contents)
