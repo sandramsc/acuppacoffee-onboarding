@@ -42,6 +42,7 @@ https://user-images.githubusercontent.com/59575217/141695019-bcef2d14-4540-4ec6-
 ![screenshot1](https://user-images.githubusercontent.com/19821445/141680795-78106d30-cb05-450e-a304-a60a21c0af00.JPG)
 ![screenshot2](https://user-images.githubusercontent.com/19821445/141680798-55cc8b94-ff7a-4918-afca-0983d5c00ebe.JPG)
 ![screenshot3](https://user-images.githubusercontent.com/19821445/141680805-4c8d105c-c06c-41fe-80fc-f85acc7163b3.jpeg)
+![Capture2](https://user-images.githubusercontent.com/19821445/141695114-cc917860-574e-4109-ae97-466153dc4903.JPG)
 
 ## Technology Stack
 
@@ -73,6 +74,9 @@ To test the application run the following commands on your terminal:
 
 ```
 clone the repository
+```
+- Website: To start it,  run npm start on command line ¡nside dashboard folder
+- API: To start it, run node index.js on command line inside authentication folder
 ```
 
 **On docker:**
