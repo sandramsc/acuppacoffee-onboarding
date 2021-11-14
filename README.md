@@ -67,7 +67,7 @@ docker-compose up --build
 **Pull image from docker hub:**
 
 ```
-docker pull https://hub.docker.com/repository/docker/sajustsmile/....
+docker pull sajustsmile/coffeeimage1
 ```
 
 ## Usage
