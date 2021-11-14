@@ -90,6 +90,7 @@ a {
   padding: 12px;
   margin: 8px 0;
   width: 100%;
+  outline: none;
 }
 
 .social-container {
@@ -232,6 +233,7 @@ button.ghost {
 }
 
 .credit {
+  margin-top: 14px;
   text-align: center;
   color: var(--first-color);
   padding-bottom: 5px;
