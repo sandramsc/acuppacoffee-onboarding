@@ -57,7 +57,7 @@ View the Demo on YouTube: https://www.youtube.com/watch?v=HELrcnVhueI
 
 1. Interested employees can sign-up and get matched with another employee where they can play a virtual game and have their scores on a leader board
 
-2. With stripe payment integration, employees can purchase a drink for other employees witheir credit card
+2. With stripe payment integrated, employees can purchase a drink for other employees witheir credit card
 
 3. We have dockerized the application for future scalability and for the purposes of being able to use the software on any operating system
 
