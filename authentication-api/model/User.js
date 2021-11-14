@@ -16,6 +16,18 @@ const UserSchema = mongoose.Schema({
   createdAt: {
     type: Date,
     default: Date.now()
+  },
+  mentor: {
+    type: String,
+    default: "Jane Jackson"
+  },
+  jobTitle:{
+    type:String,
+    required:true
+  },
+  department:{
+    type:String,
+    required:true
   }
 });
 
