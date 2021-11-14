@@ -34,9 +34,8 @@ A Short Video Detailing the Features Implemented in this Application
 
 View the Demo on YouTube: https://www.youtube.com/watch?v=HELrcnVhueI
 
-View the game concept:
-
-https://user-images.githubusercontent.com/59575217/141695019-bcef2d14-4540-4ec6-b852-74ca0526bfaf.mp4
+View the game concept in Figma:
+https://www.figma.com/proto/XocpCeCSU686PV6aFkH1Ey/All-Aboard?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2
 
 ## Screenshots
 ![screenshot1](https://user-images.githubusercontent.com/19821445/141680795-78106d30-cb05-450e-a304-a60a21c0af00.JPG)
