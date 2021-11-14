@@ -70,13 +70,12 @@ https://www.figma.com/proto/XocpCeCSU686PV6aFkH1Ey/All-Aboard?node-id=2%3A2&scal
 To test the application run the following commands on your terminal:
 
 **Running the application locally:**
-
 ```
 clone the repository
 ```
 - Website: To start it,  run npm start on command line ¡nside dashboard folder
 - API: To start it, run node index.js on command line inside authentication folder
-```
+
 
 **On docker:**
 
