@@ -1,5 +1,8 @@
-import React, { useState } from 'react';
-import { Link } from 'react-router-dom'
+import React, { MouseEvent, useState } from 'react';
+import { Link } from 'react-router-dom';
+import { FaHeart, FaFacebook, FaLinkedin, FaGoogle } from 'react-icons/fa';
+import logo from '../../assets/jpg/logo.jpg'
+
 import './Login.css';
 
 export default function Login() {
@@ -11,17 +14,54 @@ export default function Login() {
         classnames += " right-panel-active";
     }
 
+    async function register(evt: MouseEvent) {
+        evt.preventDefault();
+
+        let data = {
+            username : "Joe",
+            email : "joe@gmail.com",
+            password: "pass4567",
+            jobTitle: "Amazing Software Engineer",
+            department: "Cool Webshop"
+        }
+
+        const response = await fetch("http://localhost:4000/user/signup", 
+        { method: "POST", headers: {'Content-Type': 'application/json'}, body: JSON.stringify(data) });
+
+        const payload = await response.json();
+
+        console.log(payload);
+    }
+    <form>
+        <h1>Sign Up</h1>
+        <div className="social-container">
+            <FaFacebook />
+            <FaLinkedin />
+            <FaGoogle />            
+        </div>
+        <span>or use your business email for registration</span>
+        <input type="text" placeholder="Name" />
+        <input type="email" placeholder="Email" />
+        <input type="password" placeholder="Password" />
+        
+        <input type="text" placeholder="Job Title" />
+        <input type="text" placeholder="Start date" />
+        <input type="text" placeholder="Team or Department" />
+        
+        <button type="button" onClick={register}>Sign Up</button>
+    </form>
+
     return (
     <>
-    <img src="../../assets/jpg/logo.jpg" className="logo" />
+    <img src={logo} alt ="logo" className="logo"/>
     <div className={classnames} id="container">
         <div className="form-container sign-up-container">
             <form>
                 <h1>Sign Up</h1>
                 <div className="social-container">
-                    <a href="#" className="social"><i className="fab fa-facebook-f"></i></a>
-                    <a href="#" className="social"><i className="fab fa-google-plus-g"></i></a>
-                    <a href="#" className="social"><i className="fab fa-linkedin-in"></i></a>
+                <FaFacebook />
+                <FaLinkedin />
+                <FaGoogle />   
                 </div>
                 <span>or use your business email for registration</span>
                 <input type="text" placeholder="Name" />
@@ -32,16 +72,16 @@ export default function Login() {
                 <input type="text" placeholder="Start date" />
                 <input type="text" placeholder="Team or Department" />
                 
-                <button>Sign Up</button>
+                <button type="button" onClick={register}>Sign Up</button>
             </form>
         </div>
         <div className="form-container sign-in-container">
             <form >
                 <h1>Sign in</h1>
                 <div className="social-container">
-                    <a href="#" className="social"><i className="fab fa-facebook-f"></i></a>
-                    <a href="#" className="social"><i className="fab fa-google-plus-g"></i></a>
-                    <a href="#" className="social"><i className="fab fa-linkedin-in"></i></a>
+                    <FaFacebook />
+                    <FaLinkedin />
+                    <FaGoogle />  
                 </div>
                 <span>or use your business account</span>
                 <input type="email" placeholder="Email" />
