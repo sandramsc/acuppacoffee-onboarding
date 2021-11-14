@@ -48,6 +48,7 @@ View the Demo on YouTube: https://...........
 | JavaScript | Object-oriented language   |
 | TypeScript | Object-oriented language   |
 | React.js    | JavaScript library   |
+| Docker    | Containerization platform   |
 
 ## Features
 
