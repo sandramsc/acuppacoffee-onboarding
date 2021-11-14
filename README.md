@@ -12,7 +12,10 @@ a web based tool that enables users from the same corporate organization to inte
 ## Table of Contents
 
 <details>
-<summary>aCuppaCoffee Onboarding</summary>
+<summary>aCuppaCo
+
+
+ffee Onboarding</summary>
 
 - [Application Description](#application-description)
 - [Table of Contents](#table-of-contents)
@@ -33,6 +36,11 @@ a web based tool that enables users from the same corporate organization to inte
 A Short Video Detailing the Features Implemented in this Application
 
 View the Demo on YouTube: https://...........
+
+
+https://user-images.githubusercontent.com/59575217/141693345-ad604830-2222-4b0a-9b8a-17863aafb7b7.mp4
+
+
 
 ## Screenshots
 ![screenshot1](https://user-images.githubusercontent.com/19821445/141680795-78106d30-cb05-450e-a304-a60a21c0af00.JPG)
