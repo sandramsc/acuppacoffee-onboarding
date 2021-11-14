@@ -33,9 +33,9 @@ xxxxxxxxxxxxxxxxxxxxx
 Explore the Web app: xxxxxxxxxxxxxxxx
 
 ## Screenshots
-![screenshot1](https://user-images.githubusercontent.com/19821445/141680702-762d034b-0b49-4d71-8c5e-1a514064f079.JPG)
-![screenshot2](https://user-images.githubusercontent.com/19821445/141680704-38409335-4060-4a26-8827-40f11ea29bcc.JPG)
-![screenshot3](https://user-images.githubusercontent.com/19821445/141680706-fb5680f7-0f4c-494e-a447-cd18968115bb.jpeg)
+![screenshot1](https://user-images.githubusercontent.com/19821445/141680795-78106d30-cb05-450e-a304-a60a21c0af00.JPG)
+![screenshot2](https://user-images.githubusercontent.com/19821445/141680798-55cc8b94-ff7a-4918-afca-0983d5c00ebe.JPG)
+![screenshot3](https://user-images.githubusercontent.com/19821445/141680805-4c8d105c-c06c-41fe-80fc-f85acc7163b3.jpeg)
 
 ## Technology Stack
 
