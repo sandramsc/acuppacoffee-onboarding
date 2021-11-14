@@ -34,7 +34,7 @@ A Short Video Detailing the Features Implemented in this Application
 
 View the Demo on YouTube: https://www.youtube.com/watch?v=HELrcnVhueI
 
-
+Explore the gamified section of the app: http://bitly.ws/jzyY
 
 ## Screenshots
 ![screenshot1](https://user-images.githubusercontent.com/19821445/141680795-78106d30-cb05-450e-a304-a60a21c0af00.JPG)
