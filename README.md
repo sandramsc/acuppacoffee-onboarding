@@ -7,7 +7,7 @@
 
 ## Application Description
 
-xxxxxxxxxxxxxxxxxxxxx
+a web based tool/app that enables users from the same corporate organization to interact through games and purchase a drink (i.e coffee) as part of the on-bording process to get to know each other better
 
 ## Table of Contents
 
@@ -30,7 +30,9 @@ xxxxxxxxxxxxxxxxxxxxx
 
 ## Project Demo
 
-Explore the Web app: xxxxxxxxxxxxxxxx
+A Short Video Detailing the Features Implemented in this Application
+
+View the Demo on YouTube: https://...........
 
 ## Screenshots
 ![screenshot1](https://user-images.githubusercontent.com/19821445/141680795-78106d30-cb05-450e-a304-a60a21c0af00.JPG)
@@ -44,12 +46,13 @@ Explore the Web app: xxxxxxxxxxxxxxxx
 | HTML5      | Hyper Text Markup Language |
 | CSS3       | Cascading Style Sheets     |
 | JavaScript | Object-oriented language   |
+| TypeScript | Object-oriented language   |
 
 ## Features
 
-1. xxxxxxxxxxxx
+1. Interested employees can sign-up and get matched with another employee where they can play a virtual game and have their scores on a leader board
 
-2. xxxxxxxxxxxx
+2. Employees can purchase a drink for other employees
 
 ## Running
 
