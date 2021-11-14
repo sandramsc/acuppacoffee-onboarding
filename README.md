@@ -7,7 +7,7 @@
 
 ## Application Description
 
-a web based tool/app that enables users from the same corporate organization to interact through games and purchase a drink (i.e coffee) as part of the on-bording process to get to know each other better
+a web based tool that enables users from the same corporate organization to interact through games and purchase a drink (i.e coffee) as part of the on-bording process to get to know each other better
 
 ## Table of Contents
 
