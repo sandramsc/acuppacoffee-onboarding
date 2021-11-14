@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">aCuppaCoffee</h1>
+  <h1 align="center">aCuppaCoffee Onboarding</h1>
  <h2 2 align="center">
     Working from Home
     <br />
