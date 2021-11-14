@@ -1,17 +1,22 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Sidebar from './Components/sidebar';
-import {BrowserRouter as Router} from "react-router-dom";
-import Leaderboard from './Pages/Leaderboard/Leaderboard';
+import {
+  BrowserRouter,
+  Routes,
+  Route
+} from "react-router-dom";
+import Dashboard from './Dashboard';
+import Login from './Pages/Login/Login';
 
 function App() {
   return (
-    <Router>
-      <Sidebar />
-      <Leaderboard />
-    </Router>
-
+    <BrowserRouter>
+    <Routes>
+      <Route path="/" element={<Login />} />
+      <Route path="dashboard" element={<Dashboard />} />
+    </Routes>
+    </BrowserRouter>
   );
 }
 

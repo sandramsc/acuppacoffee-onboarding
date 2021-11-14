@@ -5,6 +5,7 @@ const jwt = require("jsonwebtoken");
 const router = express.Router();
 
 const User = require("../model/User");
+const auth = require("../middleware/auth");
 
 /**
  * @method - POST
@@ -34,7 +35,9 @@ router.post(
         const {
             username,
             email,
-            password
+            password,
+            jobTitle,
+            department
         } = req.body;
         try {
             let user = await User.findOne({
@@ -49,7 +52,9 @@ router.post(
             user = new User({
                 username,
                 email,
-                password
+                password,
+                jobTitle,
+                department
             });
 
             const salt = await bcrypt.genSalt(10);
@@ -143,6 +148,15 @@ router.post(
     }
   );
   
+  router.get("/me", auth, async (req, res) => {
+    try {
+      const user = await User.findById(req.user.id);
+      res.json(user);
+    } catch (e) {
+      res.send({ message: "Error in Fetching user" });
+    }
+  });
+
 
 module.exports = router;
 
